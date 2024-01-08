@@ -1,5 +1,5 @@
 {
-	"ret": 02,
+	"ret": 0,
 	"data": {
 		"common": {
 			"ab_config": {
