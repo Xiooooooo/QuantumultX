@@ -1,13 +1,3 @@
-^https?:\/\/adapi\.izuiyou\.com\/ url reject
-^https?:\/\/adapi\.izuiyou\.com\/ad\/fetch_api_ads\? url reject-dict
-^https?:\/\/adapi\.izuiyou\.com\/ad\/get_user_applist_check_strategy\? url reject
-^https?:\/\/adapi\.izuiyou\.com\/ad\/refresh_banner_strategy? url reject
-^https?:\/\/api\.izuiyou\.com/ad/ url reject
-^https?:\/\/api\.izuiyou\.com\/ad\/ url reject
-
-hostname= adapi.izuiyou.com, api.izuiyou.com
-
-
 {
 	"ret": 1,
 	"data": {
@@ -46,7 +36,7 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 					"enable_deeplink_hook": 0,
 					"hook_js_url": ["https://static.ixiaochuan.cn/dsp-convert-sdk/sdk.1.0.5.js"]
 				},
-				"enable": true,
+				"enable": false,
 				"limit": 3,
 				"sdk_mode": 3,
 				"timeout": 1800
@@ -60,7 +50,7 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 				"app_secret": "",
 				"appid": "543800004",
 				"draw_limit": 1,
-				"enable": true,
+				"enable": false,
 				"limit": 3,
 				"sdk_mode": 11,
 				"timeout": 1800
@@ -69,7 +59,7 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 				"dynamic_load_feed": 1,
 				"refresh_nil_cache_preload_feed": 0
 			},
-			"native_cache_lv": 3,
+			"native_cache_lv": 1,
 			"native_cache_mode": 1,
 			"reconfig_switch_draw": 1,
 			"reconfig_switch_native": 1,
@@ -79,7 +69,7 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 				"wifi_state": 1
 			},
 			"shake_hook": {
-				"enable": true,
+				"enable": false,
 				"sdks": [{
 					"damping_value": 1,
 					"intercept_max_angle": 0,
@@ -133,10 +123,10 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 			},
 			"tanx_sdk": {
 				"adslots": [],
-				"app_key": "25690842",
+				"app_key": "2569042",
 				"app_secret": "",
-				"appid": "129100079",
-				"enable": true,
+				"appid": "12910079",
+				"enable": false,
 				"limit": 3,
 				"sdk_mode": 26,
 				"timeout": 1000
@@ -145,9 +135,9 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 				"adslots": [],
 				"app_key": "",
 				"app_secret": "",
-				"appid": "1106701811",
+				"appid": "110601811",
 				"draw_limit": 1,
-				"enable": true,
+				"enable": false,
 				"limit": 3,
 				"sdk_mode": 2,
 				"timeout": 1800
@@ -156,13 +146,13 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 				"adslots": [],
 				"app_key": "",
 				"app_secret": "",
-				"appid": "5004096",
+				"appid": "500096",
 				"common_cfg": {
 					"enable_deeplink_hook": 0,
 					"waterfall_list_id_upload": 1
 				},
 				"draw_limit": 1,
-				"enable": true,
+				"enable": false,
 				"limit": 3,
 				"sdk_mode": 1,
 				"timeout": 5400
@@ -1650,7 +1640,7 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 					"use_timely_strategy": 0
 				},
 				"draw_video_related_video": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"draw_video\",\"slot_tag\":\"draw_video_related_video\",\"slot_tag_raw\":\"draw_video_related_video\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -1838,7 +1828,7 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 					"use_timely_strategy": 0
 				},
 				"video": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"draw_video\",\"slot_tag\":\"video\",\"slot_tag_raw\":\"video\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -2029,7 +2019,7 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 			"feed": {
 				"feed1": {
 					"bidding_req_type": 0,
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"native\",\"slot_tag\":\"feed\",\"slot_tag_raw\":\"feed1\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -2367,7 +2357,7 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 				},
 				"feed2": {
 					"bidding_req_type": 0,
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"native\",\"slot_tag\":\"feed\",\"slot_tag_raw\":\"feed2\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -2705,7 +2695,7 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 				},
 				"review1": {
 					"bidding_req_type": 0,
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"native\",\"slot_tag\":\"review\",\"slot_tag_raw\":\"review1\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -2981,7 +2971,7 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 				},
 				"review2": {
 					"bidding_req_type": 0,
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"native\",\"slot_tag\":\"review\",\"slot_tag_raw\":\"review2\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -3258,7 +3248,7 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 			},
 			"reward_video": {
 				"reward_freegame": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"common_cfg": {
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"reward\",\"slot_tag\":\"reward_freegame\",\"slot_tag_raw\":\"reward_freegame\",\"game_id\":\"\\u003cnil\\u003e\"}",
 						"timeout": 5
@@ -3283,7 +3273,7 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 					"use_timely_strategy": 0
 				},
 				"reward_game": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"common_cfg": {
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"reward\",\"slot_tag\":\"reward_game\",\"slot_tag_raw\":\"reward_game\",\"game_id\":\"\\u003cnil\\u003e\"}",
 						"timeout": 5
@@ -3308,7 +3298,7 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 					"use_timely_strategy": 0
 				},
 				"reward_lottery": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"common_cfg": {
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"reward\",\"slot_tag\":\"reward_lottery\",\"slot_tag_raw\":\"reward_lottery\",\"game_id\":\"\\u003cnil\\u003e\"}",
 						"timeout": 5
@@ -3323,7 +3313,7 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 					"use_timely_strategy": 0
 				},
 				"reward_novel": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"common_cfg": {
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"reward\",\"slot_tag\":\"reward_novel\",\"slot_tag_raw\":\"reward_novel\",\"game_id\":\"\\u003cnil\\u003e\"}",
 						"timeout": 5
@@ -3348,7 +3338,7 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 					"use_timely_strategy": 0
 				},
 				"xiaoshidezhangyu": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"common_cfg": {
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"reward\",\"slot_tag\":\"xiaoshidezhangyu\",\"slot_tag_raw\":\"xiaoshidezhangyu\",\"game_id\":\"\\u003cnil\\u003e\"}",
 						"timeout": 5
@@ -3373,7 +3363,7 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 					"use_timely_strategy": 0
 				},
 				"yangxiaoyou": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"common_cfg": {
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"reward\",\"slot_tag\":\"yangxiaoyou\",\"slot_tag_raw\":\"yangxiaoyou\",\"game_id\":\"\\u003cnil\\u003e\"}",
 						"timeout": 5
@@ -3400,7 +3390,7 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 			},
 			"splash": {
 				"splash_cold": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"common_cfg": {
 						"background_interval_time": 300,
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"splash\",\"slot_tag\":\"splash\",\"slot_tag_raw\":\"splash_cold\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -3574,7 +3564,7 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 					"use_timely_strategy": 0
 				},
 				"splash_hot": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"common_cfg": {
 						"background_interval_time": 300,
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"splash\",\"slot_tag\":\"splash\",\"slot_tag_raw\":\"splash_hot\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -3748,7 +3738,7 @@ hostname= adapi.izuiyou.com, api.izuiyou.com
 					"use_timely_strategy": 0
 				},
 				"virtual_splash": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"common_cfg": {
 						"background_interval_time": 300,
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"splash\",\"slot_tag\":\"splash\",\"slot_tag_raw\":\"virtual_splash\",\"game_id\":\"\\u003cnil\\u003e\"}",
