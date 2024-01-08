@@ -36,7 +36,7 @@
 					"enable_deeplink_hook": 0,
 					"hook_js_url": ["https://static.ixiaochuan.cn/dsp-convert-sdk/sdk.1.0.5.js"]
 				},
-				"enable": true,
+				"enable": false,
 				"limit": 3,
 				"sdk_mode": 3,
 				"timeout": 1800
@@ -50,7 +50,7 @@
 				"app_secret": "",
 				"appid": "543800004",
 				"draw_limit": 1,
-				"enable": true,
+				"enable": false,
 				"limit": 3,
 				"sdk_mode": 11,
 				"timeout": 1800
@@ -59,7 +59,7 @@
 				"dynamic_load_feed": 1,
 				"refresh_nil_cache_preload_feed": 0
 			},
-			"native_cache_lv": 3,
+			"native_cache_lv": 1,
 			"native_cache_mode": 1,
 			"reconfig_switch_draw": 1,
 			"reconfig_switch_native": 1,
@@ -69,7 +69,7 @@
 				"wifi_state": 1
 			},
 			"shake_hook": {
-				"enable": true,
+				"enable": false,
 				"sdks": [{
 					"damping_value": 1,
 					"intercept_max_angle": 0,
@@ -126,7 +126,7 @@
 				"app_key": "25690842",
 				"app_secret": "",
 				"appid": "129100079",
-				"enable": true,
+				"enable": false,
 				"limit": 3,
 				"sdk_mode": 26,
 				"timeout": 1000
@@ -137,7 +137,7 @@
 				"app_secret": "",
 				"appid": "1106701811",
 				"draw_limit": 1,
-				"enable": true,
+				"enable": false,
 				"limit": 3,
 				"sdk_mode": 2,
 				"timeout": 1800
@@ -152,7 +152,7 @@
 					"waterfall_list_id_upload": 1
 				},
 				"draw_limit": 1,
-				"enable": true,
+				"enable": false,
 				"limit": 3,
 				"sdk_mode": 1,
 				"timeout": 5400
@@ -182,7 +182,7 @@
 			"banner": {
 				"interact_3pic1st": {
 					"bidding_con_req_update_mode": 1,
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"banner\",\"slot_tag\":\"interact_3pic1st\",\"slot_tag_raw\":\"interact_3pic1st\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -304,7 +304,7 @@
 				},
 				"interact_lpic1st": {
 					"bidding_con_req_update_mode": 1,
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"banner\",\"slot_tag\":\"interact_lpic1st\",\"slot_tag_raw\":\"interact_lpic1st\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -435,7 +435,7 @@
 					"use_timely_strategy": 0
 				},
 				"interact_noadd_3pic1st": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"banner\",\"slot_tag\":\"interact_noadd_3pic1st\",\"slot_tag_raw\":\"interact_noadd_3pic1st\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -525,7 +525,7 @@
 					"use_timely_strategy": 0
 				},
 				"interact_noadd_bottom": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"banner\",\"slot_tag\":\"interact_noadd_bottom\",\"slot_tag_raw\":\"interact_noadd_bottom\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -615,7 +615,7 @@
 					"use_timely_strategy": 0
 				},
 				"interact_noadd_lpic1st": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"banner\",\"slot_tag\":\"interact_noadd_lpic1st\",\"slot_tag_raw\":\"interact_noadd_lpic1st\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -707,7 +707,7 @@
 				"interact_noadd_more": {
 					"bidding_bid_top_n": 5,
 					"bidding_con_req_update_mode": 1,
-					"cache_lv": 5,
+					"cache_lv": 0,
 					"con_window_req_timeout": 15000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"banner\",\"slot_tag\":\"interact_noadd_more\",\"slot_tag_raw\":\"interact_noadd_more\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -884,7 +884,7 @@
 					"use_timely_strategy": 0
 				},
 				"interact_noadd_spic1st": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"banner\",\"slot_tag\":\"interact_noadd_spic1st\",\"slot_tag_raw\":\"interact_noadd_spic1st\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -976,7 +976,7 @@
 				"interact_novel_more": {
 					"bidding_bid_top_n": 5,
 					"bidding_con_req_update_mode": 1,
-					"cache_lv": 5,
+					"cache_lv": 0,
 					"con_window_req_timeout": 15000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"banner\",\"slot_tag\":\"interact_novel_more\",\"slot_tag_raw\":\"interact_novel_more\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -1204,7 +1204,7 @@
 				},
 				"interact_spic1st": {
 					"bidding_con_req_update_mode": 1,
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"banner\",\"slot_tag\":\"interact_spic1st\",\"slot_tag_raw\":\"interact_spic1st\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -1326,7 +1326,7 @@
 					"use_timely_strategy": 0
 				},
 				"virtual_banner": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"banner\",\"slot_tag\":\"virtual_banner\",\"slot_tag_raw\":\"virtual_banner\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -1400,7 +1400,7 @@
 			},
 			"draw_video": {
 				"draw_img": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"draw_video\",\"slot_tag\":\"draw_img\",\"slot_tag_raw\":\"draw_img\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -1448,7 +1448,7 @@
 					},
 					"fill_ad_before_stg": 0,
 					"is_cache_reuse": 1,
-					"is_new_display": true,
+					"is_new_display": false,
 					"is_rerequest_for_cache": 1,
 					"list": [{
 						"adslot": "draw_video|draw_img|500000",
@@ -1498,7 +1498,7 @@
 					"use_timely_strategy": 0
 				},
 				"draw_popup": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 2000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"draw_video\",\"slot_tag\":\"draw_popup\",\"slot_tag_raw\":\"draw_popup\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -1545,7 +1545,7 @@
 						"feedback_title": "负反馈选项"
 					},
 					"fill_ad_before_stg": 0,
-					"is_new_display": true,
+					"is_new_display": false,
 					"list": [{
 						"adslot": "951508975",
 						"is_auto_play": 0,
@@ -1640,7 +1640,7 @@
 					"use_timely_strategy": 0
 				},
 				"draw_video_related_video": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"draw_video\",\"slot_tag\":\"draw_video_related_video\",\"slot_tag_raw\":\"draw_video_related_video\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -1687,7 +1687,7 @@
 						"feedback_title": "负反馈选项"
 					},
 					"fill_ad_before_stg": 0,
-					"is_new_display": true,
+					"is_new_display": false,
 					"is_strategy_preload": 1,
 					"list": [{
 						"adslot": "948500934",
@@ -1828,7 +1828,7 @@
 					"use_timely_strategy": 0
 				},
 				"video": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"draw_video\",\"slot_tag\":\"video\",\"slot_tag_raw\":\"video\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -1875,7 +1875,7 @@
 						"feedback_title": "负反馈选项"
 					},
 					"fill_ad_before_stg": 0,
-					"is_new_display": true,
+					"is_new_display": false,
 					"is_strategy_preload": 1,
 					"list": [{
 						"adslot": "948500934",
@@ -2019,7 +2019,7 @@
 			"feed": {
 				"feed1": {
 					"bidding_req_type": 0,
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"native\",\"slot_tag\":\"feed\",\"slot_tag_raw\":\"feed1\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -2357,7 +2357,7 @@
 				},
 				"feed2": {
 					"bidding_req_type": 0,
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"native\",\"slot_tag\":\"feed\",\"slot_tag_raw\":\"feed2\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -2695,7 +2695,7 @@
 				},
 				"review1": {
 					"bidding_req_type": 0,
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"native\",\"slot_tag\":\"review\",\"slot_tag_raw\":\"review1\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -2971,7 +2971,7 @@
 				},
 				"review2": {
 					"bidding_req_type": 0,
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"native\",\"slot_tag\":\"review\",\"slot_tag_raw\":\"review2\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -3248,7 +3248,7 @@
 			},
 			"reward_video": {
 				"reward_freegame": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"common_cfg": {
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"reward\",\"slot_tag\":\"reward_freegame\",\"slot_tag_raw\":\"reward_freegame\",\"game_id\":\"\\u003cnil\\u003e\"}",
 						"timeout": 5
@@ -3273,7 +3273,7 @@
 					"use_timely_strategy": 0
 				},
 				"reward_game": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"common_cfg": {
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"reward\",\"slot_tag\":\"reward_game\",\"slot_tag_raw\":\"reward_game\",\"game_id\":\"\\u003cnil\\u003e\"}",
 						"timeout": 5
@@ -3298,7 +3298,7 @@
 					"use_timely_strategy": 0
 				},
 				"reward_lottery": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"common_cfg": {
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"reward\",\"slot_tag\":\"reward_lottery\",\"slot_tag_raw\":\"reward_lottery\",\"game_id\":\"\\u003cnil\\u003e\"}",
 						"timeout": 5
@@ -3313,7 +3313,7 @@
 					"use_timely_strategy": 0
 				},
 				"reward_novel": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"common_cfg": {
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"reward\",\"slot_tag\":\"reward_novel\",\"slot_tag_raw\":\"reward_novel\",\"game_id\":\"\\u003cnil\\u003e\"}",
 						"timeout": 5
@@ -3338,7 +3338,7 @@
 					"use_timely_strategy": 0
 				},
 				"xiaoshidezhangyu": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"common_cfg": {
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"reward\",\"slot_tag\":\"xiaoshidezhangyu\",\"slot_tag_raw\":\"xiaoshidezhangyu\",\"game_id\":\"\\u003cnil\\u003e\"}",
 						"timeout": 5
@@ -3363,7 +3363,7 @@
 					"use_timely_strategy": 0
 				},
 				"yangxiaoyou": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"common_cfg": {
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"reward\",\"slot_tag\":\"yangxiaoyou\",\"slot_tag_raw\":\"yangxiaoyou\",\"game_id\":\"\\u003cnil\\u003e\"}",
 						"timeout": 5
@@ -3390,7 +3390,7 @@
 			},
 			"splash": {
 				"splash_cold": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"common_cfg": {
 						"background_interval_time": 300,
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"splash\",\"slot_tag\":\"splash\",\"slot_tag_raw\":\"splash_cold\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -3564,7 +3564,7 @@
 					"use_timely_strategy": 0
 				},
 				"splash_hot": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"common_cfg": {
 						"background_interval_time": 300,
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"splash\",\"slot_tag\":\"splash\",\"slot_tag_raw\":\"splash_hot\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -3738,7 +3738,7 @@
 					"use_timely_strategy": 0
 				},
 				"virtual_splash": {
-					"cache_lv": 3,
+					"cache_lv": 0,
 					"common_cfg": {
 						"background_interval_time": 300,
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"splash\",\"slot_tag\":\"splash\",\"slot_tag_raw\":\"virtual_splash\",\"game_id\":\"\\u003cnil\\u003e\"}",
