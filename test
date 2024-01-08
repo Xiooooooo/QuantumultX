@@ -54,6 +54,7 @@ https://raw.githubusercontent.com/ddgksf2013/Scripts/master/coolapk.js, tag=酷�
 https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/Cube/xiaohongshu.snippet, tag=小红书｜去水印 广告, update-interval=-1, opt-parser=false, enabled=true
 https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/KeepStyle.conf, tag=Keep |净化, update-interval=-1, opt-parser=false, enabled=true
 https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Amap.conf, tag=高德地图 |净化, update-interval=-1, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/Xiooooooo/QuantumultX/main/%20Rewrite/AdBlock/zuiyou.conf, tag=最右 |广告, update-interval=-1, opt-parser=false, enabled=true
 
 #>>>>>>>>>>>解锁会员
 https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/Cube/bilibili.snippet, tag=B站｜去广告 解锁画质, update-interval=-1, opt-parser=false, enabled=true
