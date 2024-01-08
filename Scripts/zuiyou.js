@@ -36,7 +36,7 @@
 					"enable_deeplink_hook": 0,
 					"hook_js_url": ["https://static.ixiaochuan.cn/dsp-convert-sdk/sdk.1.0.5.js"]
 				},
-				"enable": false,
+				"enable": true,
 				"limit": 3,
 				"sdk_mode": 3,
 				"timeout": 1800
@@ -50,7 +50,7 @@
 				"app_secret": "",
 				"appid": "543800004",
 				"draw_limit": 1,
-				"enable": false,
+				"enable": true,
 				"limit": 3,
 				"sdk_mode": 11,
 				"timeout": 1800
@@ -59,7 +59,7 @@
 				"dynamic_load_feed": 1,
 				"refresh_nil_cache_preload_feed": 0
 			},
-			"native_cache_lv": 1,
+			"native_cache_lv": 3,
 			"native_cache_mode": 1,
 			"reconfig_switch_draw": 1,
 			"reconfig_switch_native": 1,
@@ -69,7 +69,7 @@
 				"wifi_state": 1
 			},
 			"shake_hook": {
-				"enable": false,
+				"enable": true,
 				"sdks": [{
 					"damping_value": 1,
 					"intercept_max_angle": 0,
@@ -123,10 +123,10 @@
 			},
 			"tanx_sdk": {
 				"adslots": [],
-				"app_key": "2569042",
+				"app_key": "25690842",
 				"app_secret": "",
-				"appid": "12910079",
-				"enable": false,
+				"appid": "129100079",
+				"enable": true,
 				"limit": 3,
 				"sdk_mode": 26,
 				"timeout": 1000
@@ -135,9 +135,9 @@
 				"adslots": [],
 				"app_key": "",
 				"app_secret": "",
-				"appid": "110601811",
+				"appid": "1106701811",
 				"draw_limit": 1,
-				"enable": false,
+				"enable": true,
 				"limit": 3,
 				"sdk_mode": 2,
 				"timeout": 1800
@@ -146,13 +146,13 @@
 				"adslots": [],
 				"app_key": "",
 				"app_secret": "",
-				"appid": "500096",
+				"appid": "5004096",
 				"common_cfg": {
 					"enable_deeplink_hook": 0,
 					"waterfall_list_id_upload": 1
 				},
 				"draw_limit": 1,
-				"enable": false,
+				"enable": true,
 				"limit": 3,
 				"sdk_mode": 1,
 				"timeout": 5400
@@ -213,7 +213,7 @@
 							"is_selected": 0,
 							"name": "举报",
 							"option_type": 0,
-							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=9dc3ed41-983b-43b0-87cc-c386a11f4a87",
+							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=be062687-b9af-4a8d-9a68-4cd0413b263e",
 							"view_mode": 1
 						}, {
 							"desc": "为什么看到此广告",
@@ -231,7 +231,7 @@
 					"fill_ad_before_stg": 0,
 					"icon": {
 						"height": 228,
-						"url": "http://file.izuiyou.com/img/avatar/id/5039192/sz/228",
+						"url": "http://file.izuiyou.com/img/avatar/id/5039190/sz/228",
 						"width": 228
 					},
 					"label": "广告",
@@ -296,10 +296,10 @@
 						"sdk_mode": 1,
 						"timeout": 3
 					}],
-					"name": "气宇轩昂的肉夹馍",
+					"name": "老实的凉面",
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 30000,
-					"trace_id": "8045665b-7a1d-420e-b453-723ccfc094aa",
+					"trace_id": "981cb4d8-25bf-4a72-97f6-bb5b4397da73",
 					"use_timely_strategy": 0
 				},
 				"interact_lpic1st": {
@@ -335,7 +335,7 @@
 							"is_selected": 0,
 							"name": "举报",
 							"option_type": 0,
-							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=9dc3ed41-983b-43b0-87cc-c386a11f4a87",
+							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=be062687-b9af-4a8d-9a68-4cd0413b263e",
 							"view_mode": 1
 						}, {
 							"desc": "为什么看到此广告",
@@ -353,7 +353,7 @@
 					"fill_ad_before_stg": 0,
 					"icon": {
 						"height": 228,
-						"url": "http://file.izuiyou.com/img/avatar/id/5039197/sz/228",
+						"url": "http://file.izuiyou.com/img/avatar/id/5039198/sz/228",
 						"width": 228
 					},
 					"label": "广告",
@@ -428,10 +428,10 @@
 						"sdk_mode": 11,
 						"timeout": 3
 					}],
-					"name": "悲伤的炒饭",
+					"name": "小眼睛的皮带",
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 30000,
-					"trace_id": "04ca716b-c74b-41f9-b55a-11b0577e4e55",
+					"trace_id": "153bb0ac-9e07-4dcf-9830-68df11a865df",
 					"use_timely_strategy": 0
 				},
 				"interact_noadd_3pic1st": {
@@ -466,7 +466,7 @@
 							"is_selected": 0,
 							"name": "举报",
 							"option_type": 0,
-							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=9dc3ed41-983b-43b0-87cc-c386a11f4a87",
+							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=be062687-b9af-4a8d-9a68-4cd0413b263e",
 							"view_mode": 1
 						}, {
 							"desc": "为什么看到此广告",
@@ -484,7 +484,7 @@
 					"fill_ad_before_stg": 0,
 					"icon": {
 						"height": 228,
-						"url": "http://file.izuiyou.com/img/avatar/id/5039195/sz/228",
+						"url": "http://file.izuiyou.com/img/avatar/id/5039190/sz/228",
 						"width": 228
 					},
 					"label": "广告",
@@ -518,10 +518,10 @@
 						"sdk_mode": 11,
 						"timeout": 3
 					}],
-					"name": "正直的火龙果",
+					"name": "不拘小节的木耳",
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 3000,
-					"trace_id": "3655ca6a-6cdb-438f-82f9-bc8eb900ade0",
+					"trace_id": "a2338f12-0e91-4ced-83b3-e49bc568b6be",
 					"use_timely_strategy": 0
 				},
 				"interact_noadd_bottom": {
@@ -556,7 +556,7 @@
 							"is_selected": 0,
 							"name": "举报",
 							"option_type": 0,
-							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=9dc3ed41-983b-43b0-87cc-c386a11f4a87",
+							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=be062687-b9af-4a8d-9a68-4cd0413b263e",
 							"view_mode": 1
 						}, {
 							"desc": "为什么看到此广告",
@@ -574,7 +574,7 @@
 					"fill_ad_before_stg": 0,
 					"icon": {
 						"height": 228,
-						"url": "http://file.izuiyou.com/img/avatar/id/5039198/sz/228",
+						"url": "http://file.izuiyou.com/img/avatar/id/5039193/sz/228",
 						"width": 228
 					},
 					"label": "广告",
@@ -608,10 +608,10 @@
 						"sdk_mode": 11,
 						"timeout": 3
 					}],
-					"name": "飘逸的饼干",
+					"name": "无邪的圣诞树",
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 3000,
-					"trace_id": "3af4c530-f1a6-4774-a034-1d357b9ddd0d",
+					"trace_id": "73e72654-18af-4344-8d39-ee87ef0fd842",
 					"use_timely_strategy": 0
 				},
 				"interact_noadd_lpic1st": {
@@ -646,7 +646,7 @@
 							"is_selected": 0,
 							"name": "举报",
 							"option_type": 0,
-							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=9dc3ed41-983b-43b0-87cc-c386a11f4a87",
+							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=be062687-b9af-4a8d-9a68-4cd0413b263e",
 							"view_mode": 1
 						}, {
 							"desc": "为什么看到此广告",
@@ -664,7 +664,7 @@
 					"fill_ad_before_stg": 0,
 					"icon": {
 						"height": 228,
-						"url": "http://file.izuiyou.com/img/avatar/id/5039193/sz/228",
+						"url": "http://file.izuiyou.com/img/avatar/id/5039192/sz/228",
 						"width": 228
 					},
 					"label": "广告",
@@ -698,10 +698,10 @@
 						"sdk_mode": 11,
 						"timeout": 3
 					}],
-					"name": "心软的手套",
+					"name": "豁达的生姜",
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 3000,
-					"trace_id": "cec01411-0d3b-4365-897c-782f7e904664",
+					"trace_id": "4c73f3f6-788d-4409-8787-de3d91699891",
 					"use_timely_strategy": 0
 				},
 				"interact_noadd_more": {
@@ -738,7 +738,7 @@
 							"is_selected": 0,
 							"name": "举报",
 							"option_type": 0,
-							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=9dc3ed41-983b-43b0-87cc-c386a11f4a87",
+							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=be062687-b9af-4a8d-9a68-4cd0413b263e",
 							"view_mode": 1
 						}, {
 							"desc": "为什么看到此广告",
@@ -756,7 +756,7 @@
 					"fill_ad_before_stg": 0,
 					"icon": {
 						"height": 228,
-						"url": "http://file.izuiyou.com/img/avatar/id/5039196/sz/228",
+						"url": "http://file.izuiyou.com/img/avatar/id/5039193/sz/228",
 						"width": 228
 					},
 					"label": "广告",
@@ -877,10 +877,10 @@
 						"sdk_mode": 3,
 						"timeout": 3
 					}],
-					"name": "玩足球的篮球",
+					"name": "俊逸的橙子",
 					"req_with_high_price_adslot": 1,
 					"stg_req_timeout": 60000,
-					"trace_id": "0d7f38fb-88d0-4333-be13-46ad6f0d7788",
+					"trace_id": "baa94ee2-e1b7-4588-b5f8-b0b059da4880",
 					"use_timely_strategy": 0
 				},
 				"interact_noadd_spic1st": {
@@ -915,7 +915,7 @@
 							"is_selected": 0,
 							"name": "举报",
 							"option_type": 0,
-							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=9dc3ed41-983b-43b0-87cc-c386a11f4a87",
+							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=be062687-b9af-4a8d-9a68-4cd0413b263e",
 							"view_mode": 1
 						}, {
 							"desc": "为什么看到此广告",
@@ -933,7 +933,7 @@
 					"fill_ad_before_stg": 0,
 					"icon": {
 						"height": 228,
-						"url": "http://file.izuiyou.com/img/avatar/id/5039190/sz/228",
+						"url": "http://file.izuiyou.com/img/avatar/id/5039194/sz/228",
 						"width": 228
 					},
 					"label": "广告",
@@ -967,10 +967,10 @@
 						"sdk_mode": 11,
 						"timeout": 3
 					}],
-					"name": "失恋的火龙果",
+					"name": "奔跑的双杠",
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 3000,
-					"trace_id": "3e15ce99-eb39-4384-9302-845bbe9718f1",
+					"trace_id": "f7688dab-bfb2-42b2-87a1-e9b5ae60de8d",
 					"use_timely_strategy": 0
 				},
 				"interact_novel_more": {
@@ -1007,7 +1007,7 @@
 							"is_selected": 0,
 							"name": "举报",
 							"option_type": 0,
-							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=9dc3ed41-983b-43b0-87cc-c386a11f4a87",
+							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=be062687-b9af-4a8d-9a68-4cd0413b263e",
 							"view_mode": 1
 						}, {
 							"desc": "为什么看到此广告",
@@ -1025,7 +1025,7 @@
 					"fill_ad_before_stg": 0,
 					"icon": {
 						"height": 228,
-						"url": "http://file.izuiyou.com/img/avatar/id/5039195/sz/228",
+						"url": "http://file.izuiyou.com/img/avatar/id/5039190/sz/228",
 						"width": 228
 					},
 					"label": "广告",
@@ -1196,10 +1196,10 @@
 						"sdk_mode": 3,
 						"timeout": 3
 					}],
-					"name": "大力的馒头",
+					"name": "朝气蓬勃的毛巾",
 					"req_with_high_price_adslot": 1,
 					"stg_req_timeout": 60000,
-					"trace_id": "64ebab88-c04e-4d17-bddd-cb3af85f0f60",
+					"trace_id": "9f15c952-071c-4949-8f47-44671639ac45",
 					"use_timely_strategy": 0
 				},
 				"interact_spic1st": {
@@ -1235,7 +1235,7 @@
 							"is_selected": 0,
 							"name": "举报",
 							"option_type": 0,
-							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=9dc3ed41-983b-43b0-87cc-c386a11f4a87",
+							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=be062687-b9af-4a8d-9a68-4cd0413b263e",
 							"view_mode": 1
 						}, {
 							"desc": "为什么看到此广告",
@@ -1253,7 +1253,7 @@
 					"fill_ad_before_stg": 0,
 					"icon": {
 						"height": 228,
-						"url": "http://file.izuiyou.com/img/avatar/id/5039196/sz/228",
+						"url": "http://file.izuiyou.com/img/avatar/id/5039192/sz/228",
 						"width": 228
 					},
 					"label": "广告",
@@ -1319,10 +1319,10 @@
 						"sdk_mode": 3,
 						"timeout": 3
 					}],
-					"name": "光明磊落的猴子",
+					"name": "会开车的硬币",
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 30000,
-					"trace_id": "486a5d4a-d77b-4420-883f-0d87904a9c73",
+					"trace_id": "207972a9-8806-446d-a4dc-6500ebb45384",
 					"use_timely_strategy": 0
 				},
 				"virtual_banner": {
@@ -1357,7 +1357,7 @@
 							"is_selected": 0,
 							"name": "举报",
 							"option_type": 0,
-							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=9dc3ed41-983b-43b0-87cc-c386a11f4a87",
+							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=be062687-b9af-4a8d-9a68-4cd0413b263e",
 							"view_mode": 1
 						}, {
 							"desc": "为什么看到此广告",
@@ -1375,7 +1375,7 @@
 					"fill_ad_before_stg": 0,
 					"icon": {
 						"height": 228,
-						"url": "http://file.izuiyou.com/img/avatar/id/5039198/sz/228",
+						"url": "http://file.izuiyou.com/img/avatar/id/5039195/sz/228",
 						"width": 228
 					},
 					"label": "广告",
@@ -1390,11 +1390,11 @@
 						"sdk_mode": 3,
 						"timeout": 3
 					}],
-					"name": "欢快的木耳",
-					"req_time_interval": 103281,
+					"name": "爱喝酒的金鱼",
+					"req_time_interval": 67414,
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 3000,
-					"trace_id": "a41418d8-be5a-498a-945c-ff503927ba1d",
+					"trace_id": "254d9dba-d0e4-442f-883c-870923cb5bc4",
 					"use_timely_strategy": 1
 				}
 			},
@@ -1431,7 +1431,7 @@
 							"is_selected": 0,
 							"name": "举报",
 							"option_type": 0,
-							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=9dc3ed41-983b-43b0-87cc-c386a11f4a87",
+							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=be062687-b9af-4a8d-9a68-4cd0413b263e",
 							"view_mode": 1
 						}, {
 							"desc": "为什么看到此广告",
@@ -1494,7 +1494,7 @@
 					"preload_interval_time": 0,
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 3000,
-					"trace_id": "9eebde1f-a440-4abf-8b13-665227d6690e",
+					"trace_id": "13b2b188-b255-4b86-9c86-6ec1ee742ed8",
 					"use_timely_strategy": 0
 				},
 				"draw_popup": {
@@ -1529,7 +1529,7 @@
 							"is_selected": 0,
 							"name": "举报",
 							"option_type": 0,
-							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=9dc3ed41-983b-43b0-87cc-c386a11f4a87",
+							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=be062687-b9af-4a8d-9a68-4cd0413b263e",
 							"view_mode": 1
 						}, {
 							"desc": "为什么看到此广告",
@@ -1636,11 +1636,11 @@
 					"preload_interval_time": 0,
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 3000,
-					"trace_id": "346779e6-7fdb-4a97-a522-b87e63fe9a6d",
+					"trace_id": "d220f226-a0ba-478d-b9b5-4ea07f43794c",
 					"use_timely_strategy": 0
 				},
 				"draw_video_related_video": {
-					"cache_lv": 0,
+					"cache_lv": 3,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"draw_video\",\"slot_tag\":\"draw_video_related_video\",\"slot_tag_raw\":\"draw_video_related_video\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -1671,7 +1671,7 @@
 							"is_selected": 0,
 							"name": "举报",
 							"option_type": 0,
-							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=9dc3ed41-983b-43b0-87cc-c386a11f4a87",
+							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=be062687-b9af-4a8d-9a68-4cd0413b263e",
 							"view_mode": 1
 						}, {
 							"desc": "为什么看到此广告",
@@ -1824,11 +1824,11 @@
 					"preload_interval_time": 0,
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 60000,
-					"trace_id": "ab626e51-d4ea-40c1-bb82-738f165b54d4",
+					"trace_id": "0a15f672-2b23-4e64-af23-f73829eb873c",
 					"use_timely_strategy": 0
 				},
 				"video": {
-					"cache_lv": 0,
+					"cache_lv": 3,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"draw_video\",\"slot_tag\":\"video\",\"slot_tag_raw\":\"video\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -1859,7 +1859,7 @@
 							"is_selected": 0,
 							"name": "举报",
 							"option_type": 0,
-							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=9dc3ed41-983b-43b0-87cc-c386a11f4a87",
+							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=be062687-b9af-4a8d-9a68-4cd0413b263e",
 							"view_mode": 1
 						}, {
 							"desc": "为什么看到此广告",
@@ -2012,14 +2012,14 @@
 					"preload_interval_time": 0,
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 60000,
-					"trace_id": "f2a1a088-fc68-41ef-acd3-2ed9d196c47d",
+					"trace_id": "78f6d5d4-d4a0-4cfb-b3f5-3bd4a572d378",
 					"use_timely_strategy": 0
 				}
 			},
 			"feed": {
 				"feed1": {
 					"bidding_req_type": 0,
-					"cache_lv": 0,
+					"cache_lv": 3,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"native\",\"slot_tag\":\"feed\",\"slot_tag_raw\":\"feed1\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -2050,7 +2050,7 @@
 							"is_selected": 0,
 							"name": "举报",
 							"option_type": 0,
-							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=9dc3ed41-983b-43b0-87cc-c386a11f4a87",
+							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=be062687-b9af-4a8d-9a68-4cd0413b263e",
 							"view_mode": 1
 						}, {
 							"desc": "为什么看到此广告",
@@ -2068,7 +2068,7 @@
 					"fill_ad_before_stg": 0,
 					"icon": {
 						"height": 228,
-						"url": "http://file.izuiyou.com/img/avatar/id/5039190/sz/228",
+						"url": "http://file.izuiyou.com/img/avatar/id/5039192/sz/228",
 						"width": 228
 					},
 					"is_cache_reuse": 0,
@@ -2348,16 +2348,16 @@
 						"sdk_mode": 2,
 						"timeout": 3
 					}],
-					"name": "深情的书包",
+					"name": "想发财的匕首",
 					"price_parity_type": 0,
 					"req_with_high_price_adslot": 1,
 					"stg_req_timeout": 60000,
-					"trace_id": "fce39061-f2fa-45fc-b558-b03cf795658e",
+					"trace_id": "85ae8e0b-1717-46bd-bb54-a0d491248c1b",
 					"use_timely_strategy": 0
 				},
 				"feed2": {
 					"bidding_req_type": 0,
-					"cache_lv": 0,
+					"cache_lv": 3,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"native\",\"slot_tag\":\"feed\",\"slot_tag_raw\":\"feed2\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -2388,7 +2388,7 @@
 							"is_selected": 0,
 							"name": "举报",
 							"option_type": 0,
-							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=9dc3ed41-983b-43b0-87cc-c386a11f4a87",
+							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=be062687-b9af-4a8d-9a68-4cd0413b263e",
 							"view_mode": 1
 						}, {
 							"desc": "为什么看到此广告",
@@ -2406,7 +2406,7 @@
 					"fill_ad_before_stg": 0,
 					"icon": {
 						"height": 228,
-						"url": "http://file.izuiyou.com/img/avatar/id/5039191/sz/228",
+						"url": "http://file.izuiyou.com/img/avatar/id/5039194/sz/228",
 						"width": 228
 					},
 					"is_cache_reuse": 0,
@@ -2686,16 +2686,16 @@
 						"sdk_mode": 2,
 						"timeout": 3
 					}],
-					"name": "越狱的槟榔",
+					"name": "玩篮球的咖啡豆",
 					"price_parity_type": 0,
 					"req_with_high_price_adslot": 1,
 					"stg_req_timeout": 60000,
-					"trace_id": "1c555044-1c88-4e3c-bf86-4660ba933444",
+					"trace_id": "5bf0632d-1e56-4ba4-8042-766837752760",
 					"use_timely_strategy": 0
 				},
 				"review1": {
 					"bidding_req_type": 0,
-					"cache_lv": 0,
+					"cache_lv": 3,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"native\",\"slot_tag\":\"review\",\"slot_tag_raw\":\"review1\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -2726,7 +2726,7 @@
 							"is_selected": 0,
 							"name": "举报",
 							"option_type": 0,
-							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=9dc3ed41-983b-43b0-87cc-c386a11f4a87",
+							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=be062687-b9af-4a8d-9a68-4cd0413b263e",
 							"view_mode": 1
 						}, {
 							"desc": "为什么看到此广告",
@@ -2744,7 +2744,7 @@
 					"fill_ad_before_stg": 0,
 					"icon": {
 						"height": 228,
-						"url": "http://file.izuiyou.com/img/avatar/id/5039196/sz/228",
+						"url": "http://file.izuiyou.com/img/avatar/id/5039195/sz/228",
 						"width": 228
 					},
 					"is_cache_reuse": 0,
@@ -2962,16 +2962,16 @@
 						"sdk_mode": 2,
 						"timeout": 3
 					}],
-					"name": "礼貌的小马驹",
+					"name": "酒量大的烤面包",
 					"price_parity_type": 0,
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 60000,
-					"trace_id": "4113030c-7ec5-449a-9dd9-fbd0d5377ebb",
+					"trace_id": "c4ff1b6f-541e-4d34-8781-3e27d500f48a",
 					"use_timely_strategy": 0
 				},
 				"review2": {
 					"bidding_req_type": 0,
-					"cache_lv": 0,
+					"cache_lv": 3,
 					"con_window_req_timeout": 3000,
 					"concurrency_mode": 0,
 					"extra": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"native\",\"slot_tag\":\"review\",\"slot_tag_raw\":\"review2\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -3002,7 +3002,7 @@
 							"is_selected": 0,
 							"name": "举报",
 							"option_type": 0,
-							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=9dc3ed41-983b-43b0-87cc-c386a11f4a87",
+							"url": "https://dsp-h5.izuiyou.com/AdFeedback?app=zuiyou\u0026disgust_id=102\u0026up_id=be062687-b9af-4a8d-9a68-4cd0413b263e",
 							"view_mode": 1
 						}, {
 							"desc": "为什么看到此广告",
@@ -3020,7 +3020,7 @@
 					"fill_ad_before_stg": 0,
 					"icon": {
 						"height": 228,
-						"url": "http://file.izuiyou.com/img/avatar/id/5039192/sz/228",
+						"url": "http://file.izuiyou.com/img/avatar/id/5039197/sz/228",
 						"width": 228
 					},
 					"is_cache_reuse": 0,
@@ -3238,17 +3238,17 @@
 						"sdk_mode": 2,
 						"timeout": 3
 					}],
-					"name": "谈吐大方的咖啡",
+					"name": "健身的创口贴",
 					"price_parity_type": 0,
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 60000,
-					"trace_id": "612b03f3-ddd6-465e-bc47-6efa02b0bd61",
+					"trace_id": "23da5dab-87c4-4e7f-a0c0-3c0677082bfe",
 					"use_timely_strategy": 0
 				}
 			},
 			"reward_video": {
 				"reward_freegame": {
-					"cache_lv": 0,
+					"cache_lv": 3,
 					"common_cfg": {
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"reward\",\"slot_tag\":\"reward_freegame\",\"slot_tag_raw\":\"reward_freegame\",\"game_id\":\"\\u003cnil\\u003e\"}",
 						"timeout": 5
@@ -3269,11 +3269,11 @@
 					}],
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 20000,
-					"trace_id": "56e644aa-3bb3-4798-9e69-a6c60b37c8e3",
+					"trace_id": "96bde5cb-b1d3-4d61-b77f-f82ab4cd8c22",
 					"use_timely_strategy": 0
 				},
 				"reward_game": {
-					"cache_lv": 0,
+					"cache_lv": 3,
 					"common_cfg": {
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"reward\",\"slot_tag\":\"reward_game\",\"slot_tag_raw\":\"reward_game\",\"game_id\":\"\\u003cnil\\u003e\"}",
 						"timeout": 5
@@ -3294,11 +3294,11 @@
 					}],
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 20000,
-					"trace_id": "44c098e0-f160-4623-ab5e-cf975dbc8968",
+					"trace_id": "402b2f7d-3506-47a0-ad5b-1ff196193215",
 					"use_timely_strategy": 0
 				},
 				"reward_lottery": {
-					"cache_lv": 0,
+					"cache_lv": 3,
 					"common_cfg": {
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"reward\",\"slot_tag\":\"reward_lottery\",\"slot_tag_raw\":\"reward_lottery\",\"game_id\":\"\\u003cnil\\u003e\"}",
 						"timeout": 5
@@ -3309,11 +3309,11 @@
 					"list": [],
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 3000,
-					"trace_id": "68b08bff-44b6-47ae-987c-3d69276008a2",
+					"trace_id": "6a416b84-da81-46e8-9e68-49ac1456116c",
 					"use_timely_strategy": 0
 				},
 				"reward_novel": {
-					"cache_lv": 0,
+					"cache_lv": 3,
 					"common_cfg": {
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"reward\",\"slot_tag\":\"reward_novel\",\"slot_tag_raw\":\"reward_novel\",\"game_id\":\"\\u003cnil\\u003e\"}",
 						"timeout": 5
@@ -3334,11 +3334,11 @@
 					}],
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 3000,
-					"trace_id": "1b785cd2-b2f1-4bf9-b0de-07ca232e1056",
+					"trace_id": "c21f130b-e16a-4cdd-9ef1-ad3dfc5a5108",
 					"use_timely_strategy": 0
 				},
 				"xiaoshidezhangyu": {
-					"cache_lv": 0,
+					"cache_lv": 3,
 					"common_cfg": {
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"reward\",\"slot_tag\":\"xiaoshidezhangyu\",\"slot_tag_raw\":\"xiaoshidezhangyu\",\"game_id\":\"\\u003cnil\\u003e\"}",
 						"timeout": 5
@@ -3359,11 +3359,11 @@
 					}],
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 20000,
-					"trace_id": "1634366b-d692-4db0-9431-104b593d9133",
+					"trace_id": "de04280c-0a3a-4ce8-b4f8-b9f65fcddd80",
 					"use_timely_strategy": 0
 				},
 				"yangxiaoyou": {
-					"cache_lv": 0,
+					"cache_lv": 3,
 					"common_cfg": {
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"reward\",\"slot_tag\":\"yangxiaoyou\",\"slot_tag_raw\":\"yangxiaoyou\",\"game_id\":\"\\u003cnil\\u003e\"}",
 						"timeout": 5
@@ -3384,13 +3384,13 @@
 					}],
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 20000,
-					"trace_id": "99bac42d-b4ce-4e81-b615-563267b1e551",
+					"trace_id": "2c3ea8cc-bb1b-430d-908c-3e45efdd934c",
 					"use_timely_strategy": 0
 				}
 			},
 			"splash": {
 				"splash_cold": {
-					"cache_lv": 0,
+					"cache_lv": 3,
 					"common_cfg": {
 						"background_interval_time": 300,
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"splash\",\"slot_tag\":\"splash\",\"slot_tag_raw\":\"splash_cold\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -3560,11 +3560,11 @@
 					}],
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 3000,
-					"trace_id": "18b0dec0-aff9-46b2-80b7-71700b9fad68",
+					"trace_id": "3d695eeb-e09e-48b5-9ad8-80de781d2c63",
 					"use_timely_strategy": 0
 				},
 				"splash_hot": {
-					"cache_lv": 0,
+					"cache_lv": 3,
 					"common_cfg": {
 						"background_interval_time": 300,
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"splash\",\"slot_tag\":\"splash\",\"slot_tag_raw\":\"splash_hot\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -3734,11 +3734,11 @@
 					}],
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 3000,
-					"trace_id": "d844c618-40ff-45e4-be4d-c95a4201b3f5",
+					"trace_id": "8b6f0121-0109-4faf-be9d-54d1626f0b76",
 					"use_timely_strategy": 0
 				},
 				"virtual_splash": {
-					"cache_lv": 0,
+					"cache_lv": 3,
 					"common_cfg": {
 						"background_interval_time": 300,
 						"callback": "{\"app\":\"zuiyou\",\"app_ver\":\"6.0.9\",\"did\":\"0da5495f653ad32f4cc0bd87a4b34e36\",\"mid\":910761,\"caid_md5\":\"291ae0562cc7a2cd6f416f427b7c3ed0\",\"source\":\"splash\",\"slot_tag\":\"splash\",\"slot_tag_raw\":\"virtual_splash\",\"game_id\":\"\\u003cnil\\u003e\"}",
@@ -3772,10 +3772,10 @@
 						"sdk_mode": 3,
 						"timeout": 3
 					}],
-					"req_time_interval": 65756,
+					"req_time_interval": 116245,
 					"req_with_high_price_adslot": 0,
 					"stg_req_timeout": 3000,
-					"trace_id": "0101ad0a-5e09-49bb-98f1-a1262ee5a55a",
+					"trace_id": "3f44a324-4851-4ccf-9355-347605b67db0",
 					"use_timely_strategy": 1
 				}
 			}
